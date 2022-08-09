@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var diceImage1: UIImageView!
     @IBOutlet weak var diceImage2: UIImageView!
-
+    
     @IBAction func rollButton(_ sender: UIButton) {
 //       diceImage1.image = UIImage(named: "dice6")
 //       diceImage2.image = UIImage(named: "dice1")
